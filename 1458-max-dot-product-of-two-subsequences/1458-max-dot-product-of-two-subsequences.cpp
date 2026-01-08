@@ -14,7 +14,7 @@ public:
 
         int val = nums1[i]*nums2[j];  
 
-        int take_i_j = val + solve(nums1, nums2, i + 1, j + 1); 
+        int take_i_j = (nums1[i] * nums2[j]) + solve(nums1, nums2, i + 1, j + 1); 
 
         int take_i = solve(nums1, nums2, i, j + 1);  
 
