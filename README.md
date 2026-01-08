@@ -26,5 +26,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Prithish44/Leet-Code/tree/master/0012-integer-to-roman) |
 | [0038-count-and-say](https://github.com/Prithish44/Leet-Code/tree/master/0038-count-and-say) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/Prithish44/Leet-Code/tree/master/0012-integer-to-roman) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/Prithish44/Leet-Code/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
