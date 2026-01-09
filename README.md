@@ -6,14 +6,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Prithish44/Leet-Code/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Prithish44/Leet-Code/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Prithish44/Leet-Code/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Prithish44/Leet-Code/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Prithish44/Leet-Code/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Prithish44/Leet-Code/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Array
 |  |
@@ -33,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Prithish44/Leet-Code/tree/master/0012-integer-to-roman) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Prithish44/Leet-Code/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Math
 |  |
 | ------- |
@@ -45,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Prithish44/Leet-Code/tree/master/0075-sort-colors) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Prithish44/Leet-Code/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 <!---LeetCode Topics End-->
