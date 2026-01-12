@@ -3,9 +3,12 @@ public:
     vector<vector<int>> findWinners(vector<vector<int>>& matches) {
         int n = matches.size();  
         unordered_map<int, int> lost_mp;  
+
+        
         vector<int> notLost;  
         vector<int> lostOnce;    
 
+        
         for(int i = 0; i < n; i++)
         {
             int loser = matches[i][1]; 
