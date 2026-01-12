@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Prithish44/Leet-Code/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/Prithish44/Leet-Code/tree/master/0085-maximal-rectangle) |
+| [0875-koko-eating-bananas](https://github.com/Prithish44/Leet-Code/tree/master/0875-koko-eating-bananas) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Prithish44/Leet-Code/tree/master/1266-minimum-time-visiting-all-points) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Prithish44/Leet-Code/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Dynamic Programming
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/Prithish44/Leet-Code/tree/master/1266-minimum-time-visiting-all-points) |
+## Binary Search
+|  |
+| ------- |
+| [0875-koko-eating-bananas](https://github.com/Prithish44/Leet-Code/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
