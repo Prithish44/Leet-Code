@@ -29,9 +29,9 @@ public:
         }
 
 
+       
         sort(begin(notLost), end(notLost));    
         sort(begin(lostOnce), end(lostOnce));        
-
 
         return {notLost, lostOnce};  
     }
