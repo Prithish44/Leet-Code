@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Prithish44/Leet-Code/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1512-number-of-good-pairs](https://github.com/Prithish44/Leet-Code/tree/master/1512-number-of-good-pairs) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Prithish44/Leet-Code/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [3453-separate-squares-i](https://github.com/Prithish44/Leet-Code/tree/master/3453-separate-squares-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/Prithish44/Leet-Code/tree/master/0875-koko-eating-bananas) |
+| [3453-separate-squares-i](https://github.com/Prithish44/Leet-Code/tree/master/3453-separate-squares-i) |
 ## Counting
 |  |
 | ------- |
