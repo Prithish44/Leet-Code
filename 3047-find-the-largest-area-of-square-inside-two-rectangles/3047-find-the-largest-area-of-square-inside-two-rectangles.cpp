@@ -2,7 +2,10 @@ class Solution {
 public:
     long long largestSquareArea(vector<vector<int>>& bottomLeft, vector<vector<int>>& topRight) {
         int n = bottomLeft.size();  
+
+
         int maxSide = 0;
+
 
         for(int i = 0; i < n; i++)
         {
@@ -24,6 +27,7 @@ public:
             }
         }
 
+        
         return 1LL * maxSide * maxSide;    
     }
 };
