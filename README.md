@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Prithish44/Leet-Code/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Prithish44/Leet-Code/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1512-number-of-good-pairs](https://github.com/Prithish44/Leet-Code/tree/master/1512-number-of-good-pairs) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Prithish44/Leet-Code/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/Prithish44/Leet-Code/tree/master/1895-largest-magic-square) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Prithish44/Leet-Code/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Prithish44/Leet-Code/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -72,10 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Prithish44/Leet-Code/tree/master/0075-sort-colors) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Prithish44/Leet-Code/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Prithish44/Leet-Code/tree/master/0075-sort-colors) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Prithish44/Leet-Code/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Prithish44/Leet-Code/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Prithish44/Leet-Code/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Breadth-First Search
@@ -160,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Prithish44/Leet-Code/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Prithish44/Leet-Code/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Greedy
+|  |
+| ------- |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Prithish44/Leet-Code/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 <!---LeetCode Topics End-->
