@@ -3,11 +3,15 @@ public:
     int minimumCost(vector<int>& nums) {
         int n = nums.size();  
 
+
         int score = nums[0];  
+
 
         int firstMin = INT_MAX;  
 
+
         int secondMin = INT_MAX;  
+
 
         for(int i = 1; i < n; i++)
         {
@@ -20,6 +24,7 @@ public:
                 secondMin = nums[i]; 
         }
 
+        
         return score + firstMin + secondMin;     
     }
 };
