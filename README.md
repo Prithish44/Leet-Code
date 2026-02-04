@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Prithish44/Leet-Code/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Prithish44/Leet-Code/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3637-trionic-array-i](https://github.com/Prithish44/Leet-Code/tree/master/3637-trionic-array-i) |
+| [3640-trionic-array-ii](https://github.com/Prithish44/Leet-Code/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Prithish44/Leet-Code/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Dynamic Programming
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Prithish44/Leet-Code/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Prithish44/Leet-Code/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Prithish44/Leet-Code/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3640-trionic-array-ii](https://github.com/Prithish44/Leet-Code/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Prithish44/Leet-Code/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## String
 |  |
