@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Prithish44/Leet-Code/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/Prithish44/Leet-Code/tree/master/0190-reverse-bits) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Prithish44/Leet-Code/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Prithish44/Leet-Code/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Linked List
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Prithish44/Leet-Code/tree/master/0190-reverse-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/Prithish44/Leet-Code/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Prithish44/Leet-Code/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Prithish44/Leet-Code/tree/master/3721-longest-balanced-subarray-ii) |
