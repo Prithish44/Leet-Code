@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Prithish44/Leet-Code/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Prithish44/Leet-Code/tree/master/0190-reverse-bits) |
+| [0401-binary-watch](https://github.com/Prithish44/Leet-Code/tree/master/0401-binary-watch) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Prithish44/Leet-Code/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Prithish44/Leet-Code/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Linked List
@@ -271,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Prithish44/Leet-Code/tree/master/0877-stone-game) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/Prithish44/Leet-Code/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
