@@ -1,19 +1,9 @@
 class Solution {
 public:
     bool hasAlternatingBits(int n) {
-        bitset<32> b(n);  
+       unsigned int result = n ^ (n >> 1);  
 
 
-        int bits = log2(n);  
-
-
-        for(int i = 0; i<= bits; i++)
-        {
-            if(b[i] == b[i + 1])  
-                return false;  
-        }
-
-
-        return true;  
+       return (result & (result + 1)) == 0;  
     }
 };
