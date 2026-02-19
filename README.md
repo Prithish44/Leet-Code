@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Prithish44/Leet-Code/tree/master/0012-integer-to-roman) |
 | [0038-count-and-say](https://github.com/Prithish44/Leet-Code/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/Prithish44/Leet-Code/tree/master/0067-add-binary) |
+| [0696-count-binary-substrings](https://github.com/Prithish44/Leet-Code/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Prithish44/Leet-Code/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Prithish44/Leet-Code/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Prithish44/Leet-Code/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Prithish44/Leet-Code/tree/master/0075-sort-colors) |
+| [0696-count-binary-substrings](https://github.com/Prithish44/Leet-Code/tree/master/0696-count-binary-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Prithish44/Leet-Code/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2396-strictly-palindromic-number](https://github.com/Prithish44/Leet-Code/tree/master/2396-strictly-palindromic-number) |
 ## Sorting
