@@ -8,10 +8,10 @@ public:
 
         for(int num = 1; num <= n; num++)  
         {
-            int digits = log2(num) + 1;    
+            int digit = log2(num) + 1;    
 
 
-            result = ((result << digits) % M + num) % M;    
+            result = ((result << digit) % M + num) % M;    
         }
 
 
