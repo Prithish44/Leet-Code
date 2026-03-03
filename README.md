@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Prithish44/Leet-Code/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [3453-separate-squares-i](https://github.com/Prithish44/Leet-Code/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Prithish44/Leet-Code/tree/master/3454-separate-squares-ii) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Prithish44/Leet-Code/tree/master/3634-minimum-removals-to-balance-array) |
 ## Counting
 |  |
 | ------- |
