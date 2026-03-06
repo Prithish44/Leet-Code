@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Prithish44/Leet-Code/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Prithish44/Leet-Code/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Prithish44/Leet-Code/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Prithish44/Leet-Code/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Prithish44/Leet-Code/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Prithish44/Leet-Code/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Prithish44/Leet-Code/tree/master/3713-longest-balanced-substring-i) |
