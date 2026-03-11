@@ -4,12 +4,12 @@ public:
         if(n == 0)  
             return 1;  
         
-        
-        int bit = floor(log2(n)) + 1;  
+
+        int mask = 1;  
 
 
-        int mask = (1 << bit) - 1;   
-
+        while(n > mask)  
+            mask = (mask << 1) | 1;    
 
         return n ^ mask;    
     }
