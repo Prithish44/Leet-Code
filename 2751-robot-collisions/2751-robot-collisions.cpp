@@ -16,7 +16,7 @@ public:
 
         stack<int> st;  
 
-        for(int & currIdx : actual_index)  
+        for(int &currIdx : actual_index)  
         {
             if(directions[currIdx] == 'R')  
                 st.push(currIdx);  
