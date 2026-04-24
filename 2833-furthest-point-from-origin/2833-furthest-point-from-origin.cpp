@@ -1,6 +1,7 @@
 class Solution {
 public:
-    int furthestDistanceFromOrigin(string moves) {
+    int furthestDistanceFromOrigin(string moves) 
+    {
         int left = 0;    
 
 
@@ -8,7 +9,7 @@ public:
 
 
         int dash = 0;   
-        
+
 
         for(char &ch : moves)  
         {
