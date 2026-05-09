@@ -47,8 +47,9 @@ public:
             
             for(int i = bottom - 1; i >=  top + 1; i--)  
                 grid[i][left] = nums[id++];  
-        }    
+        }       
 
+        
         return grid;     
     }
 };
