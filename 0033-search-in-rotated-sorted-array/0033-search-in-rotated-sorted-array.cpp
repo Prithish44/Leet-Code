@@ -16,7 +16,8 @@ public:
                 l = mid + 1;  
             else  
                 r = mid;    
-        }
+        }    
+
 
         return l;           
     }    
@@ -40,6 +41,7 @@ public:
                 r = mid - 1;  
         }   
 
+
         return idx;     
     }
     int search(vector<int>& nums, int target) {
@@ -52,8 +54,9 @@ public:
         if(idx != -1)  
             return idx;  
         
-        idx = binary_search(pivot_idx, n - 1, nums, target);  
+        idx = binary_search(pivot_idx, n - 1, nums, target);     
 
+        
         return idx;   
     }
 };
