@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Prithish44/Leet-Code/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/Prithish44/Leet-Code/tree/master/0085-maximal-rectangle) |
 | [0396-rotate-function](https://github.com/Prithish44/Leet-Code/tree/master/0396-rotate-function) |
+| [0518-coin-change-ii](https://github.com/Prithish44/Leet-Code/tree/master/0518-coin-change-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Prithish44/Leet-Code/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Prithish44/Leet-Code/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Prithish44/Leet-Code/tree/master/0877-stone-game) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Prithish44/Leet-Code/tree/master/0085-maximal-rectangle) |
 | [0396-rotate-function](https://github.com/Prithish44/Leet-Code/tree/master/0396-rotate-function) |
+| [0518-coin-change-ii](https://github.com/Prithish44/Leet-Code/tree/master/0518-coin-change-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Prithish44/Leet-Code/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0877-stone-game](https://github.com/Prithish44/Leet-Code/tree/master/0877-stone-game) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Prithish44/Leet-Code/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
