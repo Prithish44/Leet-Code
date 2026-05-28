@@ -46,11 +46,7 @@ public:
             }    
 
 
-            dir = dir + 1;    
-
-            
-            if(dir == 4)    
-                dir = 0;     
+            dir = (dir + 1) % 4;      
         }     
 
 
