@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Prithish44/Leet-Code/tree/master/0042-trapping-rain-water) |
+| [0072-edit-distance](https://github.com/Prithish44/Leet-Code/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Prithish44/Leet-Code/tree/master/0085-maximal-rectangle) |
 | [0396-rotate-function](https://github.com/Prithish44/Leet-Code/tree/master/0396-rotate-function) |
 | [0518-coin-change-ii](https://github.com/Prithish44/Leet-Code/tree/master/0518-coin-change-ii) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Prithish44/Leet-Code/tree/master/0012-integer-to-roman) |
 | [0038-count-and-say](https://github.com/Prithish44/Leet-Code/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/Prithish44/Leet-Code/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/Prithish44/Leet-Code/tree/master/0072-edit-distance) |
 | [0657-robot-return-to-origin](https://github.com/Prithish44/Leet-Code/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Prithish44/Leet-Code/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Prithish44/Leet-Code/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
