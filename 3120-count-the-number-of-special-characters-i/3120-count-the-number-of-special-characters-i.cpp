@@ -2,8 +2,12 @@ class Solution {
 public:
     int numberOfSpecialChars(string word) 
     {
-        int freq1[26];  
-        int freq2[26];  
+        int freq1[26];    
+
+        
+        int freq2[26];    
+
+
         int count = 0;    
 
 
