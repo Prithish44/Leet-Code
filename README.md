@@ -488,4 +488,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Prithish44/Leet-Code/tree/master/3474-lexicographically-smallest-generated-string) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Prithish44/Leet-Code/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
