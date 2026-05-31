@@ -9,10 +9,12 @@ public:
         for(int i = 0; i < n; i++)  
         {
             int m = asteroids[i];
-            if(Mass < m)  
+            if(mass < m)  
                 return false;  
-            if(Mass >= m)  
-                Mass = Mass + m;
+            if(mass > 1e5)  
+                return true;
+            if(mass >= m)  
+                mass = mass + m;
         }
         return true; 
 
