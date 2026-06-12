@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Prithish44/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Prithish44/Leet-Code/tree/master/0085-maximal-rectangle) |
+| [0901-online-stock-span](https://github.com/Prithish44/Leet-Code/tree/master/0901-online-stock-span) |
 | [1544-make-the-string-great](https://github.com/Prithish44/Leet-Code/tree/master/1544-make-the-string-great) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Prithish44/Leet-Code/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2751-robot-collisions](https://github.com/Prithish44/Leet-Code/tree/master/2751-robot-collisions) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Prithish44/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Prithish44/Leet-Code/tree/master/0085-maximal-rectangle) |
+| [0901-online-stock-span](https://github.com/Prithish44/Leet-Code/tree/master/0901-online-stock-span) |
 ## Geometry
 |  |
 | ------- |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/Prithish44/Leet-Code/tree/master/0901-online-stock-span) |
 | [1622-fancy-sequence](https://github.com/Prithish44/Leet-Code/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/Prithish44/Leet-Code/tree/master/2069-walking-robot-simulation-ii) |
 ## String Matching
@@ -514,4 +517,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Prithish44/Leet-Code/tree/master/0175-combine-two-tables) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Prithish44/Leet-Code/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
