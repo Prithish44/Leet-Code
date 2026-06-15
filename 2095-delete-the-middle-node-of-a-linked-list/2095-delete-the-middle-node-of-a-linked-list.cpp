@@ -25,7 +25,7 @@ public:
         ListNode *fast = head;    
 
 
-        while(fast && fast -> next)  
+        while(fast != NULL && fast -> next != NULL)  
         {
             prevSlow = slow;  
             slow = slow -> next;  
@@ -39,6 +39,6 @@ public:
         delete(slow);   
 
 
-        return head;   
+        return head;    
     }
 };
