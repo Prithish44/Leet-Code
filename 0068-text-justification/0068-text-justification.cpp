@@ -3,7 +3,8 @@ public:
     int MAXWIDTH;  
     string findLine(int i, int j, vector<string> &words, int eachSpace, int extraSpace)  
     {
-        string line;  
+        string line;   
+
 
         for(int k = i; k < j; k++)  
         {
@@ -13,25 +14,28 @@ public:
                 continue;  
             
             for(int z = 1; z <= eachSpace; z++)  
-                line = line + ' ';  
+                line = line + " ";  
             
             if(extraSpace > 0)  
             {
-                line = line + ' ';  
+                line = line + " ";  
                 extraSpace = extraSpace - 1;     
             }
         }     
 
 
         while(line.length() < MAXWIDTH)  
-            line = line + ' ';    
+            line = line + " ";    
 
         return line;     
     }
     vector<string> fullJustify(vector<string> &words, int maxWidth) 
     {
-        vector<string> result;  
-        int n = words.size();  
+        vector<string> result;   
+
+
+        int n = words.size();   
+        
 
         MAXWIDTH = maxWidth;  
         
