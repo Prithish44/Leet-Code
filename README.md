@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Prithish44/Leet-Code/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Prithish44/Leet-Code/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0761-special-binary-string](https://github.com/Prithish44/Leet-Code/tree/master/0761-special-binary-string) |
+| [1189-maximum-number-of-balloons](https://github.com/Prithish44/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Prithish44/Leet-Code/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Prithish44/Leet-Code/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Prithish44/Leet-Code/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Prithish44/Leet-Code/tree/master/0012-integer-to-roman) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Prithish44/Leet-Code/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1189-maximum-number-of-balloons](https://github.com/Prithish44/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Prithish44/Leet-Code/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1512-number-of-good-pairs](https://github.com/Prithish44/Leet-Code/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Prithish44/Leet-Code/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Prithish44/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Prithish44/Leet-Code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1512-number-of-good-pairs](https://github.com/Prithish44/Leet-Code/tree/master/1512-number-of-good-pairs) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Prithish44/Leet-Code/tree/master/2225-find-players-with-zero-or-one-losses) |
