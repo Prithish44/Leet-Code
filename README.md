@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Prithish44/Leet-Code/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/Prithish44/Leet-Code/tree/master/0072-edit-distance) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Prithish44/Leet-Code/tree/master/0345-reverse-vowels-of-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Prithish44/Leet-Code/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Prithish44/Leet-Code/tree/master/0443-string-compression) |
 | [0657-robot-return-to-origin](https://github.com/Prithish44/Leet-Code/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Prithish44/Leet-Code/tree/master/0696-count-binary-substrings) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Prithish44/Leet-Code/tree/master/0012-integer-to-roman) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Prithish44/Leet-Code/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Prithish44/Leet-Code/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1189-maximum-number-of-balloons](https://github.com/Prithish44/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Prithish44/Leet-Code/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Prithish44/Leet-Code/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Prithish44/Leet-Code/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Prithish44/Leet-Code/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Prithish44/Leet-Code/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
