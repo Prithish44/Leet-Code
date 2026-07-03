@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1914-cyclically-rotating-a-grid](https://github.com/Prithish44/Leet-Code/tree/master/1914-cyclically-rotating-a-grid) |
 | [1980-find-unique-binary-string](https://github.com/Prithish44/Leet-Code/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Prithish44/Leet-Code/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2090-k-radius-subarray-averages](https://github.com/Prithish44/Leet-Code/tree/master/2090-k-radius-subarray-averages) |
 | [2126-destroying-asteroids](https://github.com/Prithish44/Leet-Code/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Prithish44/Leet-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Prithish44/Leet-Code/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Prithish44/Leet-Code/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Prithish44/Leet-Code/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Prithish44/Leet-Code/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2090-k-radius-subarray-averages](https://github.com/Prithish44/Leet-Code/tree/master/2090-k-radius-subarray-averages) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Prithish44/Leet-Code/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Prithish44/Leet-Code/tree/master/3634-minimum-removals-to-balance-array) |
 ## Graph Theory
