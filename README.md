@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Prithish44/Leet-Code/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/Prithish44/Leet-Code/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/Prithish44/Leet-Code/tree/master/0085-maximal-rectangle) |
+| [0169-majority-element](https://github.com/Prithish44/Leet-Code/tree/master/0169-majority-element) |
 | [0396-rotate-function](https://github.com/Prithish44/Leet-Code/tree/master/0396-rotate-function) |
 | [0518-coin-change-ii](https://github.com/Prithish44/Leet-Code/tree/master/0518-coin-change-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Prithish44/Leet-Code/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Prithish44/Leet-Code/tree/master/0012-integer-to-roman) |
+| [0169-majority-element](https://github.com/Prithish44/Leet-Code/tree/master/0169-majority-element) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Prithish44/Leet-Code/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Prithish44/Leet-Code/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1189-maximum-number-of-balloons](https://github.com/Prithish44/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Prithish44/Leet-Code/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Prithish44/Leet-Code/tree/master/0169-majority-element) |
 | [0761-special-binary-string](https://github.com/Prithish44/Leet-Code/tree/master/0761-special-binary-string) |
 | [1200-minimum-absolute-difference](https://github.com/Prithish44/Leet-Code/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Prithish44/Leet-Code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Prithish44/Leet-Code/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/Prithish44/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Prithish44/Leet-Code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1512-number-of-good-pairs](https://github.com/Prithish44/Leet-Code/tree/master/1512-number-of-good-pairs) |
@@ -492,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Prithish44/Leet-Code/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Prithish44/Leet-Code/tree/master/0190-reverse-bits) |
 | [0761-special-binary-string](https://github.com/Prithish44/Leet-Code/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/Prithish44/Leet-Code/tree/master/1382-balance-a-binary-search-tree) |
