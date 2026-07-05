@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/Prithish44/Leet-Code/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Prithish44/Leet-Code/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Prithish44/Leet-Code/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2963-count-the-number-of-good-partitions](https://github.com/Prithish44/Leet-Code/tree/master/2963-count-the-number-of-good-partitions) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Prithish44/Leet-Code/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Prithish44/Leet-Code/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Prithish44/Leet-Code/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Prithish44/Leet-Code/tree/master/1980-find-unique-binary-string) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Prithish44/Leet-Code/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Prithish44/Leet-Code/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2963-count-the-number-of-good-partitions](https://github.com/Prithish44/Leet-Code/tree/master/2963-count-the-number-of-good-partitions) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Prithish44/Leet-Code/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Prithish44/Leet-Code/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Prithish44/Leet-Code/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Prithish44/Leet-Code/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2396-strictly-palindromic-number](https://github.com/Prithish44/Leet-Code/tree/master/2396-strictly-palindromic-number) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Prithish44/Leet-Code/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2963-count-the-number-of-good-partitions](https://github.com/Prithish44/Leet-Code/tree/master/2963-count-the-number-of-good-partitions) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Prithish44/Leet-Code/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Prithish44/Leet-Code/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Prithish44/Leet-Code/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -578,4 +581,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prithish44/Leet-Code/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Combinatorics
+|  |
+| ------- |
+| [2963-count-the-number-of-good-partitions](https://github.com/Prithish44/Leet-Code/tree/master/2963-count-the-number-of-good-partitions) |
 <!---LeetCode Topics End-->
