@@ -7,8 +7,10 @@ public:
 
         while(num > 0)  
         {
-            int remainder = num % 10;    
-            ans = ans * 10 + remainder;   
+            int remainder = num % 10;  
+
+            ans = ans * 10 + remainder;  
+             
             num = num / 10;   
         }    
 
