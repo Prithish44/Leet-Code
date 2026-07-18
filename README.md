@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Prithish44/Leet-Code/tree/master/0110-balanced-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Prithish44/Leet-Code/tree/master/0547-number-of-provinces) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Prithish44/Leet-Code/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Prithish44/Leet-Code/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Prithish44/Leet-Code/tree/master/1382-balance-a-binary-search-tree) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Prithish44/Leet-Code/tree/master/0547-number-of-provinces) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Prithish44/Leet-Code/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Stack
 |  |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Prithish44/Leet-Code/tree/master/0547-number-of-provinces) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Prithish44/Leet-Code/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Prithish44/Leet-Code/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Prithish44/Leet-Code/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -570,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Prithish44/Leet-Code/tree/master/0547-number-of-provinces) |
 | [2573-find-the-string-with-lcp](https://github.com/Prithish44/Leet-Code/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Prithish44/Leet-Code/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
