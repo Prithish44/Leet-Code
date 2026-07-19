@@ -562,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Prithish44/Leet-Code/tree/master/0046-permutations) |
+| [0077-combinations](https://github.com/Prithish44/Leet-Code/tree/master/0077-combinations) |
 | [0401-binary-watch](https://github.com/Prithish44/Leet-Code/tree/master/0401-binary-watch) |
 | [1980-find-unique-binary-string](https://github.com/Prithish44/Leet-Code/tree/master/1980-find-unique-binary-string) |
 ## Rolling Hash
