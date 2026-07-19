@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Prithish44/Leet-Code/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Prithish44/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Prithish44/Leet-Code/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/Prithish44/Leet-Code/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/Prithish44/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/Prithish44/Leet-Code/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/Prithish44/Leet-Code/tree/master/0068-text-justification) |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Prithish44/Leet-Code/tree/master/0046-permutations) |
 | [0401-binary-watch](https://github.com/Prithish44/Leet-Code/tree/master/0401-binary-watch) |
 | [1980-find-unique-binary-string](https://github.com/Prithish44/Leet-Code/tree/master/1980-find-unique-binary-string) |
 ## Rolling Hash
