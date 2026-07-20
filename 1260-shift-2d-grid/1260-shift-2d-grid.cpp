@@ -12,7 +12,7 @@ public:
         if(k == 0)  
             return grid;  
         
-        auto shift = [&](int i, int j)  
+        auto reverse = [&](int i, int j)  
         {
             while(i < j)  
             {
@@ -22,9 +22,9 @@ public:
             }
         };    
 
-        shift(0, n - 1);   
-        shift(0, k - 1);  
-        shift(k, n - 1);  
+        reverse(0, n - 1);   
+        reverse(0, k - 1);  
+        reverse(k, n - 1);  
 
 
         return grid;     
