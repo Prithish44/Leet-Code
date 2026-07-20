@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Prithish44/Leet-Code/tree/master/0877-stone-game) |
 | [1052-grumpy-bookstore-owner](https://github.com/Prithish44/Leet-Code/tree/master/1052-grumpy-bookstore-owner) |
 | [1200-minimum-absolute-difference](https://github.com/Prithish44/Leet-Code/tree/master/1200-minimum-absolute-difference) |
+| [1260-shift-2d-grid](https://github.com/Prithish44/Leet-Code/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Prithish44/Leet-Code/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Prithish44/Leet-Code/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Prithish44/Leet-Code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Prithish44/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/Prithish44/Leet-Code/tree/master/0085-maximal-rectangle) |
+| [1260-shift-2d-grid](https://github.com/Prithish44/Leet-Code/tree/master/1260-shift-2d-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Prithish44/Leet-Code/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Prithish44/Leet-Code/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Prithish44/Leet-Code/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Prithish44/Leet-Code/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Prithish44/Leet-Code/tree/master/0068-text-justification) |
 | [0657-robot-return-to-origin](https://github.com/Prithish44/Leet-Code/tree/master/0657-robot-return-to-origin) |
+| [1260-shift-2d-grid](https://github.com/Prithish44/Leet-Code/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Prithish44/Leet-Code/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Prithish44/Leet-Code/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Prithish44/Leet-Code/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
