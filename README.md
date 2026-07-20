@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Prithish44/Leet-Code/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/Prithish44/Leet-Code/tree/master/0085-maximal-rectangle) |
 | [0169-majority-element](https://github.com/Prithish44/Leet-Code/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Prithish44/Leet-Code/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Prithish44/Leet-Code/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Prithish44/Leet-Code/tree/master/0283-move-zeroes) |
 | [0396-rotate-function](https://github.com/Prithish44/Leet-Code/tree/master/0396-rotate-function) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Prithish44/Leet-Code/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/Prithish44/Leet-Code/tree/master/0067-add-binary) |
+| [0189-rotate-array](https://github.com/Prithish44/Leet-Code/tree/master/0189-rotate-array) |
 | [0396-rotate-function](https://github.com/Prithish44/Leet-Code/tree/master/0396-rotate-function) |
 | [0877-stone-game](https://github.com/Prithish44/Leet-Code/tree/master/0877-stone-game) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Prithish44/Leet-Code/tree/master/1266-minimum-time-visiting-all-points) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prithish44/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Prithish44/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Prithish44/Leet-Code/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/Prithish44/Leet-Code/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Prithish44/Leet-Code/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Prithish44/Leet-Code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/Prithish44/Leet-Code/tree/master/0443-string-compression) |
