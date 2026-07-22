@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Prithish44/Leet-Code/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Prithish44/Leet-Code/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Prithish44/Leet-Code/tree/master/0877-stone-game) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Prithish44/Leet-Code/tree/master/0990-satisfiability-of-equality-equations) |
 | [1052-grumpy-bookstore-owner](https://github.com/Prithish44/Leet-Code/tree/master/1052-grumpy-bookstore-owner) |
 | [1200-minimum-absolute-difference](https://github.com/Prithish44/Leet-Code/tree/master/1200-minimum-absolute-difference) |
 | [1260-shift-2d-grid](https://github.com/Prithish44/Leet-Code/tree/master/1260-shift-2d-grid) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Prithish44/Leet-Code/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Prithish44/Leet-Code/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0761-special-binary-string](https://github.com/Prithish44/Leet-Code/tree/master/0761-special-binary-string) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Prithish44/Leet-Code/tree/master/0990-satisfiability-of-equality-equations) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Prithish44/Leet-Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Prithish44/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Prithish44/Leet-Code/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -531,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Prithish44/Leet-Code/tree/master/0547-number-of-provinces) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Prithish44/Leet-Code/tree/master/0990-satisfiability-of-equality-equations) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Prithish44/Leet-Code/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Prithish44/Leet-Code/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Prithish44/Leet-Code/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -593,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Prithish44/Leet-Code/tree/master/0547-number-of-provinces) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Prithish44/Leet-Code/tree/master/0990-satisfiability-of-equality-equations) |
 | [2573-find-the-string-with-lcp](https://github.com/Prithish44/Leet-Code/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Prithish44/Leet-Code/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
