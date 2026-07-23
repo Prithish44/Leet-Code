@@ -31,10 +31,8 @@ public:
     {    
         parent.resize(n);   
         rank.resize(n, 0);  
-        int count = 0;  
 
-        for(auto &v : connections)     
-             count = count + 1;
+        int count = connections.size();     
          
         if(count < n - 1)  
             return -1;   
