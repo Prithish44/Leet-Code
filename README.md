@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Prithish44/Leet-Code/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/Prithish44/Leet-Code/tree/master/0547-number-of-provinces) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Prithish44/Leet-Code/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Prithish44/Leet-Code/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Prithish44/Leet-Code/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Prithish44/Leet-Code/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Prithish44/Leet-Code/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/Prithish44/Leet-Code/tree/master/0547-number-of-provinces) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Prithish44/Leet-Code/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Prithish44/Leet-Code/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Stack
 |  |
 | ------- |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/Prithish44/Leet-Code/tree/master/0547-number-of-provinces) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Prithish44/Leet-Code/tree/master/0990-satisfiability-of-equality-equations) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Prithish44/Leet-Code/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Prithish44/Leet-Code/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Prithish44/Leet-Code/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Prithish44/Leet-Code/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -597,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/Prithish44/Leet-Code/tree/master/0547-number-of-provinces) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Prithish44/Leet-Code/tree/master/0990-satisfiability-of-equality-equations) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Prithish44/Leet-Code/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2573-find-the-string-with-lcp](https://github.com/Prithish44/Leet-Code/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Prithish44/Leet-Code/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
