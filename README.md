@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/Prithish44/Leet-Code/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Prithish44/Leet-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Prithish44/Leet-Code/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/Prithish44/Leet-Code/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Prithish44/Leet-Code/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/Prithish44/Leet-Code/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Prithish44/Leet-Code/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Prithish44/Leet-Code/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Prithish44/Leet-Code/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2090-k-radius-subarray-averages](https://github.com/Prithish44/Leet-Code/tree/master/2090-k-radius-subarray-averages) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/Prithish44/Leet-Code/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Prithish44/Leet-Code/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Prithish44/Leet-Code/tree/master/3634-minimum-removals-to-balance-array) |
 ## Graph Theory
@@ -653,4 +655,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Prithish44/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Prithish44/Leet-Code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Prithish44/Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Queue
+|  |
+| ------- |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/Prithish44/Leet-Code/tree/master/2444-count-subarrays-with-fixed-bounds) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/Prithish44/Leet-Code/tree/master/2444-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
