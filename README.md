@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Prithish44/Leet-Code/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/Prithish44/Leet-Code/tree/master/0072-edit-distance) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Prithish44/Leet-Code/tree/master/0345-reverse-vowels-of-a-string) |
+| [0433-minimum-genetic-mutation](https://github.com/Prithish44/Leet-Code/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Prithish44/Leet-Code/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Prithish44/Leet-Code/tree/master/0443-string-compression) |
 | [0657-robot-return-to-origin](https://github.com/Prithish44/Leet-Code/tree/master/0657-robot-return-to-origin) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Prithish44/Leet-Code/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/Prithish44/Leet-Code/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Prithish44/Leet-Code/tree/master/0229-majority-element-ii) |
+| [0433-minimum-genetic-mutation](https://github.com/Prithish44/Leet-Code/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Prithish44/Leet-Code/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Prithish44/Leet-Code/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1189-maximum-number-of-balloons](https://github.com/Prithish44/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0433-minimum-genetic-mutation](https://github.com/Prithish44/Leet-Code/tree/master/0433-minimum-genetic-mutation) |
 | [0463-island-perimeter](https://github.com/Prithish44/Leet-Code/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/Prithish44/Leet-Code/tree/master/0547-number-of-provinces) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Prithish44/Leet-Code/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
