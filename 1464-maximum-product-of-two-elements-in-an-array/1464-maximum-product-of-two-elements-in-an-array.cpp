@@ -3,13 +3,15 @@ public:
     int maxProduct(vector<int>& nums) {
         int n = nums.size();   
 
-        // Initialize both to INT_MIN
-        int max1 = INT_MIN;  
-        int max2 = INT_MIN;   
+        
+        int max1 = INT_MIN;     
+
+
+        int max2 = INT_MIN;      
+
 
         for(int i = 0; i < n; i++)  
         {
-            // Use >= instead of > to safely cascade values and handle duplicates
             if(nums[i] >= max1)   
             {
                max2 = max1;   
@@ -21,7 +23,10 @@ public:
             }
         }   
 
-        int product = (max1 - 1) * (max2 - 1);   
+
+        int product = (max1 - 1) * (max2 - 1);      
+
+        
         return product;    
     }
 };
