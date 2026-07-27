@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Prithish44/Leet-Code/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Prithish44/Leet-Code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Prithish44/Leet-Code/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prithish44/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Prithish44/Leet-Code/tree/master/1512-number-of-good-pairs) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Prithish44/Leet-Code/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Prithish44/Leet-Code/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/Prithish44/Leet-Code/tree/master/0761-special-binary-string) |
 | [1200-minimum-absolute-difference](https://github.com/Prithish44/Leet-Code/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Prithish44/Leet-Code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prithish44/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Prithish44/Leet-Code/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/Prithish44/Leet-Code/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Prithish44/Leet-Code/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prithish44/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Prithish44/Leet-Code/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Prithish44/Leet-Code/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Prithish44/Leet-Code/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
