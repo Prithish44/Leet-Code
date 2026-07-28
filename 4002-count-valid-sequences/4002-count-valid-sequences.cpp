@@ -1,47 +1,51 @@
 class Solution {
-public:
-    static const int MOD = 1e9 + 7;
+public:      
+    int M = 1e9 + 7;  
+    long long findPower(long long a, long long b)     
+    {
+        if(b == 0)    
+            return 1;  
+        
+        long long half = findPower(a, b / 2) % M;  
+        long long result = (half * half) % M;     
 
-    long long modPow(long long a, long long b) {
-        long long res = 1;
-        while (b) {
-            if (b & 1)
-                res = res * a % MOD;
-            a = a * a % MOD;
-            b >>= 1;
-        }
-        return res;
+        if(b % 2 == 1)  
+            result = (result * a % M) % M;  
+        
+
+        return result;   
     }
+    long long fact(int n)   
+    {
+        long long f = 1;  
 
-    int countValidSequences(int n, int k) {
+        for(int i = 1; i <= n; i++)    
+            f = (f * i) % M;  
+        
 
-        auto ravolqedin = make_pair(n, k);
+        return f;   
+    }
+    long long Combination(int n, int r)    
+    {
+        if(r < 0 || r > n)     
+            return 0;  
+        
+        long long a = fact(n);  
+        long long b = (fact(r) * fact(n - r)) % M;  
+        return (a * findPower(b, M - 2)) % M;  
+    }
+    int countValidSequences(int n, int k) 
+    {
+        long long total_sequence = Combination(n - 1, k - 1);    
+        long long odd = 0;  
+        
+        if((n - k) % 2 == 0)   
+            odd = Combination((n + k - 2) / 2, k - 1);     
+        
+        long long ans = (total_sequence - odd) % M;
+        if (ans < 0) ans += M;    
 
-        vector<long long> fact(n + 1), invFact(n + 1);
 
-        fact[0] = 1;
-        for (int i = 1; i <= n; i++)
-            fact[i] = fact[i - 1] * i % MOD;
-
-        invFact[n] = modPow(fact[n], MOD - 2);
-
-        for (int i = n; i >= 1; i--)
-            invFact[i - 1] = invFact[i] * i % MOD;
-
-        auto C = [&](int N, int R) -> long long {
-            if (R < 0 || R > N) return 0;
-            return fact[N] * invFact[R] % MOD * invFact[N - R] % MOD;
-        };
-
-        long long total = C(n - 1, k - 1);
-
-        long long odd = 0;
-
-        if ((n - k) % 2 == 0) {
-            int S = (n - k) / 2;
-            odd = C(S + k - 1, k - 1);
-        }
-
-        return (total - odd + MOD) % MOD;
+        return ans;   
     }
 };
