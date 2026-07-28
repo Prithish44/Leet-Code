@@ -42,8 +42,7 @@ public:
         if((n - k) % 2 == 0)   
             odd = Combination((n + k - 2) / 2, k - 1);     
         
-        long long ans = (total_sequence - odd) % M;
-        if (ans < 0) ans += M;    
+        long long ans = (total_sequence - odd + M) % M;         
 
 
         return ans;   
