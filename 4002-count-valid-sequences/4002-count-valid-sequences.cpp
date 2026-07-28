@@ -10,7 +10,7 @@ public:
         long long result = (half * half) % M;     
 
         if(b % 2 == 1)  
-            result = (result * a % M) % M;  
+            result = (result * a) % M;  
         
 
         return result;   
