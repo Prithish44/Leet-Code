@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Prithish44/Leet-Code/tree/master/0012-integer-to-roman) |
+| [0050-powx-n](https://github.com/Prithish44/Leet-Code/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Prithish44/Leet-Code/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Prithish44/Leet-Code/tree/master/0189-rotate-array) |
 | [0396-rotate-function](https://github.com/Prithish44/Leet-Code/tree/master/0396-rotate-function) |
@@ -616,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Prithish44/Leet-Code/tree/master/0050-powx-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Prithish44/Leet-Code/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Union-Find
 |  |
