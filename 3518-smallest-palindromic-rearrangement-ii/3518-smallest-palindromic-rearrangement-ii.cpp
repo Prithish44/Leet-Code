@@ -33,7 +33,7 @@ public:
             if(n % 2 == 1 && i == n / 2)   
                 continue;  
             
-            count[s[i] - 'a']++;  
+            count[s[i] - 'a'] = count[s[i] - 'a'] + 1;    
         }     
 
         for(int i = 0; i < 26; i++)  
@@ -49,7 +49,7 @@ public:
             {
                 if(count[j] > 0)   
                 {
-                    count[j]--;   
+                    count[j] = count[j] - 1;   
 
                     long long ways = 1;  
                 
