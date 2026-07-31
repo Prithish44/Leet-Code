@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3474-lexicographically-smallest-generated-string](https://github.com/Prithish44/Leet-Code/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Prithish44/Leet-Code/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Prithish44/Leet-Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Prithish44/Leet-Code/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/Prithish44/Leet-Code/tree/master/3612-process-string-with-special-operations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Prithish44/Leet-Code/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Prithish44/Leet-Code/tree/master/3714-longest-balanced-substring-ii) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/Prithish44/Leet-Code/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Prithish44/Leet-Code/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Prithish44/Leet-Code/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Prithish44/Leet-Code/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Prithish44/Leet-Code/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Prithish44/Leet-Code/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Prithish44/Leet-Code/tree/master/3714-longest-balanced-substring-ii) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Prithish44/Leet-Code/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Prithish44/Leet-Code/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Prithish44/Leet-Code/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Prithish44/Leet-Code/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Prithish44/Leet-Code/tree/master/3536-maximum-product-of-two-digits) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Prithish44/Leet-Code/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Prithish44/Leet-Code/tree/master/3783-mirror-distance-of-an-integer) |
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1814-count-nice-pairs-in-an-array](https://github.com/Prithish44/Leet-Code/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Prithish44/Leet-Code/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2833-furthest-point-from-origin](https://github.com/Prithish44/Leet-Code/tree/master/2833-furthest-point-from-origin) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Prithish44/Leet-Code/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Prithish44/Leet-Code/tree/master/3713-longest-balanced-substring-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prithish44/Leet-Code/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
@@ -666,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2963-count-the-number-of-good-partitions](https://github.com/Prithish44/Leet-Code/tree/master/2963-count-the-number-of-good-partitions) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Prithish44/Leet-Code/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Number Theory
 |  |
 | ------- |
