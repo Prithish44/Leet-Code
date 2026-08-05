@@ -1,26 +1,31 @@
 class Solution {
-public:
+public: 
+    typedef pair<int, int> P;
     long long continuousSubarrays(vector<int>& nums) 
     {
         int n = nums.size();  
 
         long long count = 0; 
 
-        map<int, int> mp;  
+        priority_queue<P, vector<P>> maxHeap; 
+        priority_queue<P, vector<P>, greater<P>> minHeap; 
         
         int i = 0;  
         int j = 0;     
 
         while(j < n)  
         {
-            mp[nums[j]]++; 
-            while(abs(mp.rbegin() -> first - mp.begin() -> first) > 2)  
-            {
-                mp[nums[i]]--;  
-                if(mp[nums[i]] == 0)  
-                    mp.erase(nums[i]);  
+            maxHeap.push({nums[j], j});     
+            minHeap.push({nums[j], j});  
+            while(abs(maxHeap.top().first - minHeap.top().first) > 2)  
+            {   
+                i++;   
+
+                while(!maxHeap.empty() && maxHeap.top().second < i)  
+                    maxHeap.pop();  
                 
-                i++; 
+                while(!minHeap.empty() && minHeap.top().second < i)  
+                    minHeap.pop();  
             }  
 
             count = count + j - i + 1;  
