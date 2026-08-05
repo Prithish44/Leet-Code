@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/Prithish44/Leet-Code/tree/master/2573-find-the-string-with-lcp) |
 | [2574-left-and-right-sum-differences](https://github.com/Prithish44/Leet-Code/tree/master/2574-left-and-right-sum-differences) |
 | [2751-robot-collisions](https://github.com/Prithish44/Leet-Code/tree/master/2751-robot-collisions) |
+| [2762-continuous-subarrays](https://github.com/Prithish44/Leet-Code/tree/master/2762-continuous-subarrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Prithish44/Leet-Code/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/Prithish44/Leet-Code/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [2906-construct-product-matrix](https://github.com/Prithish44/Leet-Code/tree/master/2906-construct-product-matrix) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Prithish44/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Prithish44/Leet-Code/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2762-continuous-subarrays](https://github.com/Prithish44/Leet-Code/tree/master/2762-continuous-subarrays) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Prithish44/Leet-Code/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Prithish44/Leet-Code/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Prithish44/Leet-Code/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Prithish44/Leet-Code/tree/master/0456-132-pattern) |
+| [2762-continuous-subarrays](https://github.com/Prithish44/Leet-Code/tree/master/2762-continuous-subarrays) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Prithish44/Leet-Code/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Prithish44/Leet-Code/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Greedy
@@ -580,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-k-radius-subarray-averages](https://github.com/Prithish44/Leet-Code/tree/master/2090-k-radius-subarray-averages) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Prithish44/Leet-Code/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Prithish44/Leet-Code/tree/master/2516-take-k-of-each-character-from-left-and-right) |
+| [2762-continuous-subarrays](https://github.com/Prithish44/Leet-Code/tree/master/2762-continuous-subarrays) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Prithish44/Leet-Code/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Prithish44/Leet-Code/tree/master/3634-minimum-removals-to-balance-array) |
 ## Graph Theory
@@ -706,10 +710,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Prithish44/Leet-Code/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [2762-continuous-subarrays](https://github.com/Prithish44/Leet-Code/tree/master/2762-continuous-subarrays) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Prithish44/Leet-Code/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [2762-continuous-subarrays](https://github.com/Prithish44/Leet-Code/tree/master/2762-continuous-subarrays) |
 ## Probability and Statistics
 |  |
 | ------- |
