@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Prithish44/Leet-Code/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Prithish44/Leet-Code/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Prithish44/Leet-Code/tree/master/1382-balance-a-binary-search-tree) |
+| [3310-remove-methods-from-project](https://github.com/Prithish44/Leet-Code/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Prithish44/Leet-Code/tree/master/0547-number-of-provinces) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Prithish44/Leet-Code/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Prithish44/Leet-Code/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [3310-remove-methods-from-project](https://github.com/Prithish44/Leet-Code/tree/master/3310-remove-methods-from-project) |
 ## Stack
 |  |
 | ------- |
@@ -594,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Prithish44/Leet-Code/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Prithish44/Leet-Code/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Prithish44/Leet-Code/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3310-remove-methods-from-project](https://github.com/Prithish44/Leet-Code/tree/master/3310-remove-methods-from-project) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Prithish44/Leet-Code/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Prithish44/Leet-Code/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
