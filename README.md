@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2075-decode-the-slanted-ciphertext](https://github.com/Prithish44/Leet-Code/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Prithish44/Leet-Code/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Prithish44/Leet-Code/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/Prithish44/Leet-Code/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2573-find-the-string-with-lcp](https://github.com/Prithish44/Leet-Code/tree/master/2573-find-the-string-with-lcp) |
 | [2833-furthest-point-from-origin](https://github.com/Prithish44/Leet-Code/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Prithish44/Leet-Code/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Prithish44/Leet-Code/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1980-find-unique-binary-string](https://github.com/Prithish44/Leet-Code/tree/master/1980-find-unique-binary-string) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Prithish44/Leet-Code/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/Prithish44/Leet-Code/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Prithish44/Leet-Code/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2963-count-the-number-of-good-partitions](https://github.com/Prithish44/Leet-Code/tree/master/2963-count-the-number-of-good-partitions) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Prithish44/Leet-Code/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -577,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Prithish44/Leet-Code/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2090-k-radius-subarray-averages](https://github.com/Prithish44/Leet-Code/tree/master/2090-k-radius-subarray-averages) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Prithish44/Leet-Code/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/Prithish44/Leet-Code/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Prithish44/Leet-Code/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Prithish44/Leet-Code/tree/master/3634-minimum-removals-to-balance-array) |
 ## Graph Theory
