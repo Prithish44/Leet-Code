@@ -13,10 +13,10 @@ class Solution {
 public:
     bool isCompleteTree(TreeNode* root) 
     {
-        bool flag = false;  
-
         queue<TreeNode*> que;  
-        que.push(root);  
+        que.push(root);   
+
+        bool flag = false;    
 
         TreeNode* node = NULL;   
 
