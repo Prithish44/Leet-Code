@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Prithish44/Leet-Code/tree/master/0110-balanced-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/Prithish44/Leet-Code/tree/master/0199-binary-tree-right-side-view) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Prithish44/Leet-Code/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Prithish44/Leet-Code/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Prithish44/Leet-Code/tree/master/1382-balance-a-binary-search-tree) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Prithish44/Leet-Code/tree/master/0110-balanced-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/Prithish44/Leet-Code/tree/master/0199-binary-tree-right-side-view) |
 | [0463-island-perimeter](https://github.com/Prithish44/Leet-Code/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/Prithish44/Leet-Code/tree/master/0547-number-of-provinces) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Prithish44/Leet-Code/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Prithish44/Leet-Code/tree/master/0110-balanced-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/Prithish44/Leet-Code/tree/master/0199-binary-tree-right-side-view) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Prithish44/Leet-Code/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Prithish44/Leet-Code/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Prithish44/Leet-Code/tree/master/1382-balance-a-binary-search-tree) |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Prithish44/Leet-Code/tree/master/0199-binary-tree-right-side-view) |
 | [0433-minimum-genetic-mutation](https://github.com/Prithish44/Leet-Code/tree/master/0433-minimum-genetic-mutation) |
 | [0463-island-perimeter](https://github.com/Prithish44/Leet-Code/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/Prithish44/Leet-Code/tree/master/0547-number-of-provinces) |
