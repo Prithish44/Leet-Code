@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/Prithish44/Leet-Code/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Prithish44/Leet-Code/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Prithish44/Leet-Code/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prithish44/Leet-Code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2963-count-the-number-of-good-partitions](https://github.com/Prithish44/Leet-Code/tree/master/2963-count-the-number-of-good-partitions) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Prithish44/Leet-Code/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Prithish44/Leet-Code/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Prithish44/Leet-Code/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Prithish44/Leet-Code/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Prithish44/Leet-Code/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prithish44/Leet-Code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2963-count-the-number-of-good-partitions](https://github.com/Prithish44/Leet-Code/tree/master/2963-count-the-number-of-good-partitions) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Prithish44/Leet-Code/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prithish44/Leet-Code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -604,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Prithish44/Leet-Code/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Prithish44/Leet-Code/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2762-continuous-subarrays](https://github.com/Prithish44/Leet-Code/tree/master/2762-continuous-subarrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prithish44/Leet-Code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Prithish44/Leet-Code/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Prithish44/Leet-Code/tree/master/3634-minimum-removals-to-balance-array) |
 ## Graph Theory
