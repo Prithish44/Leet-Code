@@ -1,31 +1,18 @@
 class Solution {
 public:  
-    int n;     
-    vector<vector<long long>> t;   
-    long long solve(vector<int> &nums, int i, bool flag)  
-    {
-        if(i >= n)    
-            return 0;   
-        if(t[i][flag] != -1)    
-            return t[i][flag];  
-        
-        int val = nums[i];     
-        
-        if(flag != true)  
-            val = -val;  
-        
-        long long take = val + solve(nums, i + 1, !flag);  
-        long long skip = solve(nums, i + 1, flag);     
-
-
-        return t[i][flag] = max(take, skip);   
-    }
     long long maxAlternatingSum(vector<int>& nums) 
     {
-        n = nums.size();   
+        int n = nums.size();    
 
-        t.resize(n + 1, vector<long long>(2, -1));     
+        vector<vector<long long>> t(n + 1, vector<long long>(2, 0));  
 
-        return solve(nums, 0, true);  
+        for(int i = 1; i < n + 1; i++)  
+        {
+            t[i][0] = max(t[i - 1][1] - nums[i - 1], t[i - 1][0]);  
+            t[i][1] = max(t[i - 1][0] + nums[i - 1], t[i - 1][1]);  
+        }    
+
+
+        return max(t[n][0], t[n][1]);    
     }
 };
