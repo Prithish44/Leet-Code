@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Prithish44/Leet-Code/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Prithish44/Leet-Code/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/Prithish44/Leet-Code/tree/master/1895-largest-magic-square) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/Prithish44/Leet-Code/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Prithish44/Leet-Code/tree/master/1914-cyclically-rotating-a-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Prithish44/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/Prithish44/Leet-Code/tree/master/1980-find-unique-binary-string) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Prithish44/Leet-Code/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Prithish44/Leet-Code/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Prithish44/Leet-Code/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/Prithish44/Leet-Code/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2463-minimum-total-distance-traveled](https://github.com/Prithish44/Leet-Code/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/Prithish44/Leet-Code/tree/master/2573-find-the-string-with-lcp) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Prithish44/Leet-Code/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
