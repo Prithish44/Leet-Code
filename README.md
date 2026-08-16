@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Prithish44/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/Prithish44/Leet-Code/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Prithish44/Leet-Code/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2029-stone-game-ix](https://github.com/Prithish44/Leet-Code/tree/master/2029-stone-game-ix) |
 | [2090-k-radius-subarray-averages](https://github.com/Prithish44/Leet-Code/tree/master/2090-k-radius-subarray-averages) |
 | [2126-destroying-asteroids](https://github.com/Prithish44/Leet-Code/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Prithish44/Leet-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1814-count-nice-pairs-in-an-array](https://github.com/Prithish44/Leet-Code/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Prithish44/Leet-Code/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Prithish44/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Prithish44/Leet-Code/tree/master/2029-stone-game-ix) |
 | [2396-strictly-palindromic-number](https://github.com/Prithish44/Leet-Code/tree/master/2396-strictly-palindromic-number) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Prithish44/Leet-Code/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2963-count-the-number-of-good-partitions](https://github.com/Prithish44/Leet-Code/tree/master/2963-count-the-number-of-good-partitions) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Prithish44/Leet-Code/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1512-number-of-good-pairs](https://github.com/Prithish44/Leet-Code/tree/master/1512-number-of-good-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Prithish44/Leet-Code/tree/master/1814-count-nice-pairs-in-an-array) |
+| [2029-stone-game-ix](https://github.com/Prithish44/Leet-Code/tree/master/2029-stone-game-ix) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Prithish44/Leet-Code/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2833-furthest-point-from-origin](https://github.com/Prithish44/Leet-Code/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Prithish44/Leet-Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -591,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Prithish44/Leet-Code/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Prithish44/Leet-Code/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Prithish44/Leet-Code/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2029-stone-game-ix](https://github.com/Prithish44/Leet-Code/tree/master/2029-stone-game-ix) |
 | [2126-destroying-asteroids](https://github.com/Prithish44/Leet-Code/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Prithish44/Leet-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2573-find-the-string-with-lcp](https://github.com/Prithish44/Leet-Code/tree/master/2573-find-the-string-with-lcp) |
@@ -666,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Prithish44/Leet-Code/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Prithish44/Leet-Code/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Prithish44/Leet-Code/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Prithish44/Leet-Code/tree/master/2029-stone-game-ix) |
 ## Backtracking
 |  |
 | ------- |
@@ -759,16 +764,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Prithish44/Leet-Code/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Prithish44/Leet-Code/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Prithish44/Leet-Code/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Prithish44/Leet-Code/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Prithish44/Leet-Code/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Prithish44/Leet-Code/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Prithish44/Leet-Code/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Prithish44/Leet-Code/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Prithish44/Leet-Code/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Prithish44/Leet-Code/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
