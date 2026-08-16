@@ -8,7 +8,12 @@ public:
 
         for(int i = 1; i < n + 1 ; i++)  
         {
-            t[i][0] = max(t[i - 1][1] - nums[i - 1], t[i - 1][0]);  
+            //  Even  
+
+            t[i][0] = max(t[i - 1][1] - nums[i - 1], t[i - 1][0]);    
+
+            //  Odd  
+
             t[i][1] = max(t[i - 1][0] + nums[i - 1], t[i - 1][1]);  
         }    
 
