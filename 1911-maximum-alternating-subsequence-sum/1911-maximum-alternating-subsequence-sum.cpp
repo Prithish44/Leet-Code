@@ -6,7 +6,7 @@ public:
 
         vector<vector<long long>> t(n + 1, vector<long long>(2, 0));  
 
-        for(int i = 1; i < n + 1; i++)  
+        for(int i = 1; i < n + 1 ; i++)  
         {
             t[i][0] = max(t[i - 1][1] - nums[i - 1], t[i - 1][0]);  
             t[i][1] = max(t[i - 1][0] + nums[i - 1], t[i - 1][1]);  
