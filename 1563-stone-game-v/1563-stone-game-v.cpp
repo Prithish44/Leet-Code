@@ -9,7 +9,8 @@ public:
         if(t[l][r] != -1)    
             return t[l][r];   
         
-        int score = 0;   
+        int score = 0;  
+         
         for(int mid = l; mid < r; mid++)  
         {
             int leftSum = cumSum[mid] - (l - 1 >= 0 ? cumSum[l - 1] : 0);  
