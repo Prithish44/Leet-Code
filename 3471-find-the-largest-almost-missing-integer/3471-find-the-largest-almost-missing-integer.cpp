@@ -31,7 +31,7 @@ public:
 
         for(auto [num, count] : mp)  
         {
-            if(count == 1 and result < num)  
+            if(count == 1 && result < num)  
                 result = num;  
         }   
 
