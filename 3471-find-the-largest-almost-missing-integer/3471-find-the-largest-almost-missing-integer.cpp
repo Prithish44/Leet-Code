@@ -5,39 +5,37 @@ public:
         int n = nums.size();  
 
         unordered_map<int, int> mp;  
+        unordered_set<int> st;   
 
-        for(int i = 0; i < n; i++)  
-            mp[nums[i]] = mp[nums[i]] + 1;  
-        if(k == 1)  
+        int i = 0; 
+        int j = 0;  
+
+        while(j < n)  
         {
-            int ans = -1;   
-            for(int i = 0; i < n; i++)  
+            if(j - i + 1 == k)  
             {
-                if(mp[nums[i]] == 1)    
-                    ans = max(ans, nums[i]);   
-            }
-            
-            return ans;   
-        }   
-        else if(k == n)  
-        {
-            int ans = -1;  
-            for(int i = 0; i < n; i++)  
-                ans = max(ans, nums[i]);  
-            
-            return ans;     
+                for(int l = i; l <= j; l++)  
+                    st.insert(nums[l]);  
+                
+                for(int x : st)  
+                    mp[x]++;  
+                
+                st.erase(nums[i]);  
+                i++;
+            }  
 
+            j++;
         }
-        if(mp[nums[0]] == 1 && mp[nums[n - 1]] == 1)    
-            return max(nums[0], nums[n - 1]);  
-        else if(mp[nums[0]] == 1)  
-            return nums[0];  
-        else if(mp[nums[n - 1]] == 1)  
-            return nums[n - 1];  
         
+        int result = -1;  
+
+        for(auto [num, count] : mp)  
+        {
+            if(count == 1 and result < num)  
+                result = num;  
+        }   
 
 
-        return -1;     
-        
+        return result;   
     }
 };
