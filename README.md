@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Prithish44/Leet-Code/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Prithish44/Leet-Code/tree/master/0085-maximal-rectangle) |
 | [0396-rotate-function](https://github.com/Prithish44/Leet-Code/tree/master/0396-rotate-function) |
+| [0458-poor-pigs](https://github.com/Prithish44/Leet-Code/tree/master/0458-poor-pigs) |
 | [0486-predict-the-winner](https://github.com/Prithish44/Leet-Code/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/Prithish44/Leet-Code/tree/master/0518-coin-change-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Prithish44/Leet-Code/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Prithish44/Leet-Code/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Prithish44/Leet-Code/tree/master/0189-rotate-array) |
 | [0396-rotate-function](https://github.com/Prithish44/Leet-Code/tree/master/0396-rotate-function) |
+| [0458-poor-pigs](https://github.com/Prithish44/Leet-Code/tree/master/0458-poor-pigs) |
 | [0486-predict-the-winner](https://github.com/Prithish44/Leet-Code/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Prithish44/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0808-soup-servings](https://github.com/Prithish44/Leet-Code/tree/master/0808-soup-servings) |
@@ -749,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0458-poor-pigs](https://github.com/Prithish44/Leet-Code/tree/master/0458-poor-pigs) |
 | [2963-count-the-number-of-good-partitions](https://github.com/Prithish44/Leet-Code/tree/master/2963-count-the-number-of-good-partitions) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Prithish44/Leet-Code/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Number Theory
