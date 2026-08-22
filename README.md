@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-distribute-coins-in-binary-tree](https://github.com/Prithish44/Leet-Code/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Prithish44/Leet-Code/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Prithish44/Leet-Code/tree/master/1382-balance-a-binary-search-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Prithish44/Leet-Code/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Prithish44/Leet-Code/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-distribute-coins-in-binary-tree](https://github.com/Prithish44/Leet-Code/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Prithish44/Leet-Code/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Prithish44/Leet-Code/tree/master/1382-balance-a-binary-search-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Prithish44/Leet-Code/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Prithish44/Leet-Code/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Array
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-k-radius-subarray-averages](https://github.com/Prithish44/Leet-Code/tree/master/2090-k-radius-subarray-averages) |
 | [2126-destroying-asteroids](https://github.com/Prithish44/Leet-Code/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Prithish44/Leet-Code/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Prithish44/Leet-Code/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Prithish44/Leet-Code/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Prithish44/Leet-Code/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Prithish44/Leet-Code/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1814-count-nice-pairs-in-an-array](https://github.com/Prithish44/Leet-Code/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Prithish44/Leet-Code/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1980-find-unique-binary-string](https://github.com/Prithish44/Leet-Code/tree/master/1980-find-unique-binary-string) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Prithish44/Leet-Code/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Prithish44/Leet-Code/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Prithish44/Leet-Code/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Prithish44/Leet-Code/tree/master/2516-take-k-of-each-character-from-left-and-right) |
