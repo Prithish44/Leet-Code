@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/Prithish44/Leet-Code/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Prithish44/Leet-Code/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Prithish44/Leet-Code/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Prithish44/Leet-Code/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Prithish44/Leet-Code/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Prithish44/Leet-Code/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Prithish44/Leet-Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -649,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Prithish44/Leet-Code/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/Prithish44/Leet-Code/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [2762-continuous-subarrays](https://github.com/Prithish44/Leet-Code/tree/master/2762-continuous-subarrays) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Prithish44/Leet-Code/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prithish44/Leet-Code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Prithish44/Leet-Code/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Prithish44/Leet-Code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
