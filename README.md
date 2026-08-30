@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Prithish44/Leet-Code/tree/master/0012-integer-to-roman) |
+| [0146-lru-cache](https://github.com/Prithish44/Leet-Code/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Prithish44/Leet-Code/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Prithish44/Leet-Code/tree/master/0229-majority-element-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/Prithish44/Leet-Code/tree/master/0433-minimum-genetic-mutation) |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/Prithish44/Leet-Code/tree/master/0086-partition-list) |
+| [0146-lru-cache](https://github.com/Prithish44/Leet-Code/tree/master/0146-lru-cache) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Prithish44/Leet-Code/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Prithish44/Leet-Code/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Prithish44/Leet-Code/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -604,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Prithish44/Leet-Code/tree/master/0146-lru-cache) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Prithish44/Leet-Code/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Prithish44/Leet-Code/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Ordered Set
@@ -743,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Prithish44/Leet-Code/tree/master/0146-lru-cache) |
 | [0901-online-stock-span](https://github.com/Prithish44/Leet-Code/tree/master/0901-online-stock-span) |
 | [1622-fancy-sequence](https://github.com/Prithish44/Leet-Code/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/Prithish44/Leet-Code/tree/master/2069-walking-robot-simulation-ii) |
