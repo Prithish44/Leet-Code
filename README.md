@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Prithish44/Leet-Code/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/Prithish44/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/Prithish44/Leet-Code/tree/master/0057-insert-interval) |
+| [0064-minimum-path-sum](https://github.com/Prithish44/Leet-Code/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/Prithish44/Leet-Code/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/Prithish44/Leet-Code/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/Prithish44/Leet-Code/tree/master/0085-maximal-rectangle) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Prithish44/Leet-Code/tree/master/0042-trapping-rain-water) |
+| [0064-minimum-path-sum](https://github.com/Prithish44/Leet-Code/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Prithish44/Leet-Code/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Prithish44/Leet-Code/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Prithish44/Leet-Code/tree/master/0118-pascals-triangle) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Prithish44/Leet-Code/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/Prithish44/Leet-Code/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/Prithish44/Leet-Code/tree/master/0085-maximal-rectangle) |
 | [0463-island-perimeter](https://github.com/Prithish44/Leet-Code/tree/master/0463-island-perimeter) |
 | [1260-shift-2d-grid](https://github.com/Prithish44/Leet-Code/tree/master/1260-shift-2d-grid) |
