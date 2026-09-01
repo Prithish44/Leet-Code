@@ -12,47 +12,43 @@ class Solution {
 public:
     vector<int> nodesBetweenCriticalPoints(ListNode* head) 
     {
-        int minDistance = INT_MAX;
+       ListNode *prev = head; 
+       ListNode* curr = head -> next;  
 
-        ListNode* prev = head;
-        ListNode* curr = head->next;
-        int currPosition = 1;
-        int previousCriticalIndex = 0;
-        int firstCriticalIndex = 0;
+       int firstCriticalIndex = 0; 
+       int prevCriticalIndex = 0;  
 
-        while (curr->next != NULL) 
+       int i = 1;    
+       
+       int minDist = INT_MAX;  
+
+        while(curr -> next != NULL)  
         {
-            
-            // When we see a critical point
-            if ((curr->val < prev->val &&
-                 curr->val < curr->next->val) ||
-                (curr->val > prev->val &&
-                 curr->val > curr->next->val)) 
-                 {
+            if((prev -> val > curr -> val && curr -> val < curr -> next -> val) || (prev -> val < curr -> val && curr -> val > curr -> next -> val))  
+            {
+                if(firstCriticalIndex == 0)  
+                {
+                    firstCriticalIndex = i; 
+                    prevCriticalIndex = i;
+                }  
+                else  
+                {
+                    minDist = min(minDist, i - prevCriticalIndex);  
+                    prevCriticalIndex = i;  
+                }
+            }  
 
-                    if (previousCriticalIndex == 0) 
-                    {
-                        previousCriticalIndex = currPosition;
-                        firstCriticalIndex = currPosition;
-                    } 
-                    else 
-                    {
-                        minDistance = min(minDistance, currPosition - previousCriticalIndex);
-                        previousCriticalIndex = currPosition;
-                    }
-            }
+            prev = curr;  
+            curr = curr -> next;   
 
-            currPosition++;
-            prev = curr;
-            curr = curr->next;
-        }
+            i = i + 1;  
+        }   
 
-        if (minDistance == INT_MAX) 
-            return {-1, -1};
+        if(minDist == INT_MAX)  
+            return {-1, -1};    
         
 
-        int maxDistance = previousCriticalIndex - firstCriticalIndex;
-        return {minDistance, maxDistance};
+        return {minDist, prevCriticalIndex - firstCriticalIndex};       
     }
 };
 
